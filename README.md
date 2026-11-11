@@ -1,6 +1,13 @@
-<p align="center">
+<!-- <p align="center">
     <img width="96" height="96" alt="红果短剧助手图标" src="https://github.com/Aunlyn/hongguo-assistant/blob/main/image/appiconⅡ.png?raw=true" />
+</p> -->
+<!-- 顶部品牌横幅 -->
+<p align="center">
+  <img src="https://hgast.top/banner.webp"
+       alt="红果免费短剧第三方客户端"
+       width="750">
 </p>
+
 <h1 align="center">红果短剧助手</h1>
 <p align="center">Rust 驱动跨平台红果短剧助手，一站式短剧工具，支持账号登录云端同步播放 / 收藏 / 预约记录、刷剧模式、弹幕评论互动等超多功能</p>
 <p align="center">
@@ -15,6 +22,10 @@
 ---
 
 > 红果短剧助手是一款面向红果免费短剧的第三方桌面端播放器，移植手机端红果免费短剧播放相关超过90%的功能！软件本体仅不到10MB丰富功能摸鱼必备！
+
+## 声明
+> [!WARNING]
+> > **本项目是红果短剧的第三方客户端 非官方客户端，与红果免费短剧及其运营方不存在任何隶属、授权或背书关系。**
 
 ## 实机效果
 
