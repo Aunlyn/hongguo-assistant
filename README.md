@@ -1,5 +1,5 @@
 <p align="center">
-    <img width="96" height="96" alt="红果短剧助手图标" src="https://github.com/Aunlyn/hongguo-assistant/blob/main/image/appicon.png?raw=true" />
+    <img width="96" height="96" alt="红果短剧助手图标" src="https://github.com/Aunlyn/hongguo-assistant/blob/main/image/appiconⅡ.png?raw=true" />
 </p>
 <h1 align="center">红果短剧助手</h1>
 <p align="center">Rust 驱动跨平台红果短剧助手，一站式短剧工具，支持账号登录云端同步播放 / 收藏 / 预约记录、刷剧模式、弹幕评论互动等超多功能</p>
